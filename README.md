@@ -19,15 +19,6 @@
 </p>
 </details>
 
-<details>
-<summary>📜 𝗜𝗡𝗗𝗘𝗫 📜 </summary>
-<p>
-
-## INDEX
-
-* [PLUGINS](#maker-plugins) 
-</p>
-
  GIT LINK:- [CLICK HERE](https://github.com/TURBOHYPER/Toxic-Alexa_V4)
 
 </details>
