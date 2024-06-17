@@ -99,6 +99,18 @@ https://gist.github.com/TURBOHYPER/179e4cf3a8ced0f8020cd16f2b84d7bc
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : toxic-alexa_v4
 <br />
 <br />
+<h4 align="center">  ᐉ 𝗝𝗜𝗗 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/TURBOHYPER">𝐓𝐔𝐑𝐁𝐎𝐌𝐎𝐃𝐒</a>
+
+
+```js
+https://gist.github.com/TURBOHYPER/7d4eef010e4200c73749011f7824f63e
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝚜𝚎𝚗𝚍𝚜 𝚌𝚑𝚊𝚝 𝚒𝚍 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : toxic-alexa_v4
+<br />
+<br />
 __________________________________
 __________________________________
 
