@@ -87,6 +87,18 @@ https://gist.github.com/TURBOHYPER/48f2ef72151b3b637c545e5adc51d26d
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : toxic-alexa_v4
 <br />
 <br />
+<h4 align="center">  ᐉ 𝗠𝗙𝗢𝗥𝗪𝗔𝗥𝗗 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/TURBOHYPER">𝐓𝐔𝐑𝐁𝐎𝐌𝐎𝐃𝐒</a>
+
+
+```js
+https://gist.github.com/TURBOHYPER/179e4cf3a8ced0f8020cd16f2b84d7bc
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝚏𝚘𝚛𝚠𝚊𝚛𝚍𝚜 𝚊𝚗 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝚎𝚡𝚝𝚎𝚛𝚗𝚊𝚕 𝚌𝚘𝚗𝚝𝚎𝚡𝚝 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : toxic-alexa_v4
+<br />
+<br />
 __________________________________
 __________________________________
 
