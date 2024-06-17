@@ -111,6 +111,18 @@ https://gist.github.com/TURBOHYPER/7d4eef010e4200c73749011f7824f63e
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : toxic-alexa_v4
 <br />
 <br />
+<h4 align="center">  ᐉ 𝗠𝗘𝗡𝗧𝗜𝗢𝗡 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/TURBOHYPER">𝐓𝐔𝐑𝐁𝐎𝐌𝐎𝐃𝐒</a>
+
+
+```js
+https://gist.github.com/TURBOHYPER/cf9d8066b6361d2ea070faaaa2dc4bdd
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝚜𝚎𝚗𝚍𝚜 𝚖𝚎𝚗𝚝𝚒𝚘𝚗 𝚠𝚑𝚎𝚗𝚎𝚟𝚎𝚛 𝚜𝚘𝚖𝚎𝚘𝚗𝚎 𝚖𝚎𝚗𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚎 𝚐𝚒𝚟𝚎𝚗 𝚗𝚞𝚖𝚋𝚎𝚛 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : toxic-alexa_v4
+<br />
+<br />
 __________________________________
 __________________________________
 
